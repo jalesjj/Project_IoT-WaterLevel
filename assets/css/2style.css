@@ -1,0 +1,9 @@
+.table-scroll {
+    max-height: 400px; /* Atur tinggi maksimum tabel */
+    overflow-y: auto;  /* Tambahkan scrollbar vertikal */
+    border: 1px solid #dee2e6; /* Tambahkan border untuk estetika */
+}
+
+.table-scroll table {
+    width: 100%; /* Pastikan tabel tetap responsif */
+}

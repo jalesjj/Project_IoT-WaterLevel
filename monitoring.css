@@ -1,0 +1,58 @@
+			.tangki {
+				border-style: solid;
+				width: 300px;
+				height: 300px;
+				left: 50%;
+				transform: translate(-50%);
+				position: sticky;
+				border-bottom-left-radius: 20px;
+				border-bottom-right-radius: 20px;
+			}
+
+			.air {
+				left: 50%;
+				bottom: 0px;
+				transform: translate(-50%);
+				position: absolute;
+				border-bottom-left-radius: 20px;
+				border-bottom-right-radius: 20px;
+				background-color: #81d1dc;
+			}
+
+			.penutup {
+				border-style: solid;
+				width: 300px;
+				height: 10px;
+				left: 50%;
+				transform: translate(-50%);
+				position: sticky;
+				border-top-left-radius: 20px;
+				border-top-right-radius: 20px;
+			}
+
+			.pegangan {
+				border-style: solid;
+				width: 40px;
+				height: 20px;
+				left: 50%;
+				transform: translate(-50%);
+				position: sticky;
+				border-top-left-radius: 20px;
+				border-top-right-radius: 20px;
+			}
+
+			.back-button {
+				position: fixed;
+				right: 20px;
+				bottom: 20px;
+				background-color: #007bff;
+				color: white;
+				padding: 10px 20px;
+				font-size: 16px;
+				border-radius: 5px;
+				text-decoration: none;
+				transition: background-color 0.3s;
+			}
+			.back-button:hover {
+				background-color: #0056b3;
+			}

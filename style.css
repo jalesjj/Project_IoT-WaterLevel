@@ -1,0 +1,63 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa; /* Latar belakang yang lebih cerah */
+    color: #333; /* Warna teks yang lebih gelap untuk kontras */
+}
+
+.navbar {
+    background-color: #007bff; /* Warna navbar biru */
+}
+
+.navbar-brand, .nav-link {
+    color: white !important; /* Warna teks navbar putih */
+}
+
+.nav-link:hover {
+    color: #ffc107 !important; /* Warna saat hover */
+}
+
+.card {
+    border: none; /* Hilangkan border pada card */
+    border-radius: 10px; /* Sudut card yang lebih membulat */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Bayangan untuk efek 3D */
+}
+
+
+.card-header {
+    background-color: #007bff; /* Warna header card */
+    color: white; /* Teks header putih */
+    border-top-left-radius: 10px; /* Sudut atas kiri card */
+    border-top-right-radius: 10px; /* Sudut atas kanan card */
+}
+
+.card-body i {
+    color: #007bff; /* Warna ikon */
+}
+
+.btn-primary {
+    background-color: #007bff; /* Warna tombol biru */
+    border: none; /* Hilangkan border */
+    border-radius: 5px; /* Sudut tombol yang membulat */
+}
+
+.btn-primary:hover {
+    background-color: #0056b3; /* Warna tombol saat hover */
+}
+
+/* Atur ukuran grafik agar responsif */
+canvas {
+    max-width: 100%;
+    height: 300px; /* Tinggi grafik */
+}
+
+/* Menambahkan margin bawah pada setiap card untuk ruang */
+.mb-4 {
+    margin-bottom: 1.5rem !important;
+}
+
+/* Responsivitas */
+@media (max-width: 768px) {
+    .col-lg-4, .col-md-6 {
+        margin-bottom: 20px; /* Jarak antar card pada layar kecil */
+    }
+}
