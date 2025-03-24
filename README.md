@@ -7,6 +7,8 @@ Alat-Alat Monitoring Water Level (ukuran air):
 4) Breadbroad
 5) Kabel jumper
 6) kabel USB
+   ![image](https://github.com/user-attachments/assets/7e20a835-bc75-4cb1-b48d-4e7e7355d563)
+
 
 Alat - Alat Water otomatis Dispencer
 1) ARDUINO UNO
@@ -16,6 +18,8 @@ Alat - Alat Water otomatis Dispencer
 5) DC MOTOR 5V
 6) kabel jumper
 7) kabel USB
+   ![image](https://github.com/user-attachments/assets/1652d8bb-6b41-4cda-a935-5cb3840f5719)
+
 
 **DATABASE**
 
