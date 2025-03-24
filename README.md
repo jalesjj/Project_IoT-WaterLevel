@@ -1,3 +1,4 @@
+**Komponen Sistem**
 Alat-Alat Monitoring Water Level (ukuran air):
 1) Nodemcu82
 2) Sensor ultrasonic
@@ -12,3 +13,4 @@ Alat - Alat Water otomatis Dispencer
 4) BREADBOARD
 5) DC MOTOR 5V
 6) KABEL JUMPER
+
