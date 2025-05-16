@@ -23,6 +23,13 @@ Sistem ini terdiri dari dua bagian utama:
 
 Keduanya memanfaatkan teknologi mikrokontroler (NodeMCU & Arduino UNO) serta sensor ultrasonik untuk mendeteksi ketinggian air, dan dapat terintegrasi dengan database untuk penyimpanan data secara real-time.
 
+## 📺 Video Demo
+
+Tonton demonstrasi lengkapnya di YouTube:
+
+[![Tonton Demo](https://img.youtube.com/vi/XvU2MWOxSQY/0.jpg)](https://youtu.be/XvU2MWOxSQY)
+
+
 ---
 
 ## ⚙️ Komponen Sistem
